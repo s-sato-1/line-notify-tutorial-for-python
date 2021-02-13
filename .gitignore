@@ -1,0 +1,6 @@
+venv/
+settings.ini
+__pycache__/
+build/
+dist/
+main.spec
